@@ -327,7 +327,7 @@ ls
 ## todo.txt
 ```
 
-Let's create a new directory to store some code files we am going to write
+Let's create a new directory to store some code files we are going to write
 later. We can use `mkdir` to create a new directory called `Code`:
 
 
