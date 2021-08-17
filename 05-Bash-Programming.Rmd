@@ -691,7 +691,7 @@ echo "End program"
 First this program will print "Start program", then the IF statement will check
 if the conditional expression `[[ $1 -eq 4 ]]` is true. It will only be true if
 you provide `4` as the first argument to the script. If the conditional
-expression if true then it will execute the code in between `then` and `fi`,
+expression is true then it will execute the code in between `then` and `fi`,
 otherwise it will skip over that code. Finally the program will print
 "End program."
 
